@@ -1,4 +1,4 @@
-"""Entry point for ukp_project_template."""
+"""Entry point for dasp_ai_agents_cowriting_humans."""
 
 from .cli import main  # pragma: no cover
 

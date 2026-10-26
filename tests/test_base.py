@@ -1,6 +1,6 @@
 # Tests are defined here
-from ukp_project_template import BaseClass
-from ukp_project_template.subpackage import SubPackageClass
+from dasp_ai_agents_cowriting_humans import BaseClass
+from dasp_ai_agents_cowriting_humans.subpackage import SubPackageClass
 
 def test_template():
     assert True
